@@ -1,1 +1,1 @@
-# Nucleogenic-36Ar-part2
+# Nucleogenic $^{36}$Ar
